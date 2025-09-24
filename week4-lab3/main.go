@@ -48,3 +48,4 @@ func main(){
 		fmt.Printf("%dValidation = %v\n", st.Validate())
 	}
 }
+/**/
